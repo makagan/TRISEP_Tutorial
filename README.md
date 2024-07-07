@@ -62,7 +62,7 @@ The excercises are organized by day to follow along with you lecture materials. 
 
 ### Day 3: Deep Neural Networks
 * Train a multi-layer MLP: [`3.1.Going-Deeper.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/3.1.Going-Deeper.ipynb)
-* Train a convolutional neural network on MNIST:
+* Train a convolutional neural network on MNIST: [`3.2.ConvNet-MNIST.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/3.2.ConvNet-MNIST.ipynb)
 
 ### Day 4: Unsupervised Learning
 * Apply principle components analysis to MNIST:[`4.1.PCA-MNIST.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/4.1.PCA-MNIST.ipynb)
