@@ -52,24 +52,24 @@ A variety of tutorial notebooks below will introduce you to advanced python, PyT
 The excercises are organized by day to follow along with you lecture materials. Each notebook will have open questions and code for you to fill in. They are roughly numbered in the order to be explored. The solutions are also provided:
 
 ### Day 1: Linear Models
-* Fitting models and bias-variance tradeoff: ['1.1.Fitting-and-Bias-Variance-Tradeoff.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/1.1.Fitting-and-Bias-Variance-Tradeoff.ipynb)
-* Logistic and Linear Regression trained with gradient descent: ['1.2.Intro-LinearModels-SGD.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/1.2.Intro-LinearModels-SGD.ipynb)
+* Fitting models and bias-variance tradeoff: [`1.1.Fitting-and-Bias-Variance-Tradeoff.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/1.1.Fitting-and-Bias-Variance-Tradeoff.ipynb)
+* Logistic and Linear Regression trained with gradient descent: [`1.2.Intro-LinearModels-SGD.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/1.2.Intro-LinearModels-SGD.ipynb)
 
 ### Day 2: Neural Networks
-* Make a neural network by hand: ['2.1.First-NN.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/2.1.First-NN.ipynb)
-* Train a neural network with PyTorch:['2.2.Intro-NN-pytorch.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/2.2.Intro-NN-pytorch.ipynb)
-* Train a neural network on the MNIST data set: ['2.3.NN-MLP-MNIST.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/2.3.NN-MLP-MNIST.ipynb)
+* Make a neural network by hand: [`2.1.First-NN.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/2.1.First-NN.ipynb)
+* Train a neural network with PyTorch:[`2.2.Intro-NN-pytorch.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/2.2.Intro-NN-pytorch.ipynb)
+* Train a neural network on the MNIST data set: [`2.3.NN-MLP-MNIST.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/2.3.NN-MLP-MNIST.ipynb)
 
 ### Day 3: Deep Neural Networks
-* Train a multi-layer MLP: ['3.1.Going-Deeper.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/3.1.Going-Deeper.ipynb)
+* Train a multi-layer MLP: [`3.1.Going-Deeper.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/3.1.Going-Deeper.ipynb)
 * Train a convolutional neural network on MNIST:
 
 ### Day 4: Unsupervised Learning
-* Apply principle components analysis to MNIST:['4.1.PCA-MNIST.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/4.1.PCA-MNIST.ipynb)
-* Train an autoencoder on MNIST: ['4.2.AutoEncoder-MNIST.ipynb'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/4.2.AutoEncoder-MNIST.ipynb)
+* Apply principle components analysis to MNIST:[`4.1.PCA-MNIST.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/4.1.PCA-MNIST.ipynb)
+* Train an autoencoder on MNIST: [`4.2.AutoEncoder-MNIST.ipynb`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/4.2.AutoEncoder-MNIST.ipynb)
 
 ### Day 5: Deep Generative Models
-* Train a variation autoencoder and conditional variational autoencoder on MNIST: ['5.VariationalAutoEncoder-MNIST'](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/5.VariationalAutoEncoder-MNIST.ipynb)
+* Train a variation autoencoder and conditional variational autoencoder on MNIST: [`5.VariationalAutoEncoder-MNIST`](https://github.com/makagan/TRISEP_Tutorial/blob/main/Exercises/5.VariationalAutoEncoder-MNIST.ipynb)
 
 
 ## Other Resources
@@ -78,5 +78,5 @@ The excercises are organized by day to follow along with you lecture materials. 
 * Deep Learning, Goodfellow et al. (2016) -- [`link`](https://www.deeplearningbook.org/)
 * Introduction to machine learning, Murray (2010) -- [`video lectures`](http://videolectures.net/bootcamp2010_murray_iml/)
 * Stanford ML courses -- [`link`](https://ai.stanford.edu/stanford-ai-courses/)
-* Francois Fleuret course on deep learning -- ['link'](https://fleuret.org/dlc/)
-* Gilles Louppe course on deep learning -- ['link'](https://github.com/glouppe/info8010-deep-learning)
+* Francois Fleuret course on deep learning -- [`link`](https://fleuret.org/dlc/)
+* Gilles Louppe course on deep learning -- [`link`](https://github.com/glouppe/info8010-deep-learning)
